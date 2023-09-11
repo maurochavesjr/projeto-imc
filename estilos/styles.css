@@ -133,3 +133,37 @@ footer p {
     margin-top: 15px;
   }
 }
+
+/* Adicione este CSS no seu arquivo CSS */
+@media (max-width: 600px) {
+  /* Centralize o conteúdo no centro da tela */
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+  /* Reduza o tamanho da fonte dos alertas */
+  #customAlert {
+    font-size: 18px;
+  }
+
+  /* Reduza o tamanho da fonte do título */
+  h1 {
+    font-size: 28px;
+  }
+
+  /* Ajuste o tamanho dos inputs */
+  input[type="number"] {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  /* Aumente o tamanho do botão */
+  #calcular {
+    font-size: 18px;
+    padding: 10px 20px;
+  }
+}
