@@ -3,33 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="estilos/styles.css">
   <title>Calculadora de IMC</title>
+  <link rel="stylesheet" href="estilos/styles.css">
 </head>
 <body>
   <div class="container">
-    <h1>Calculadora de IMC  - Avalie sua Saúde</h1>
-    <p id="subtitulo">Calcule o Índice de Massa Corporal (IMC) para avaliar sua saúde e bem-estar.</p>
-    <p>O IMC é uma medida simples que relaciona seu peso e altura. Ele foi desenvolvido pelo matemático Adolphe Quetelet no século 19 como um indicador de saúde. Lembre-se sempre de procurar um especialista.</p>
-    <label for="peso">Peso (kg):</label>
-    <input type="number" id="peso">
-    <label for="altura">Altura (cm):</label>
-    <input type="number" id="altura">
+    <h1>Calculadora de IMC</h1>
+    <p>Preencha os campos abaixo para calcular seu Índice de Massa Corporal (IMC).</p>
+    <label for="peso">Peso (kg)</label>
+    <input type="number" id="peso" required>
+    <label for="altura">Altura (cm)</label>
+    <input type="number" id="altura" required>
     <button id="calcular">Calcular</button>
-    <div id="resultado">
-      <p id="imcResultado"></p>
-      <p id="classificacaoResultado"></p>
+    <div class="resultado-container"> <!-- Nova div para o resultado -->
+      <p id="resultado"></p>
     </div>
   </div>
-
   <div class="custom-alert" id="customAlert">
     <span id="customAlertMessage"></span>
   </div>
-  
   <footer>
-    <p> Desenvolvido por Mauro Chaves Jr &copy; 2023</p>
+    <p>© 2023 Calculadora de IMC</p>
   </footer>
-  
   <script src="script.js"></script>
 </body>
 </html>
+

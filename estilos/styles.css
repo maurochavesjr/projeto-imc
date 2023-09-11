@@ -116,6 +116,15 @@ footer p {
   display: block;
 }
 
+.custom-alert.success {
+  box-shadow: 0 0 10px rgba(0, 128, 0, 0.5), 0 4px 8px rgba(0, 128, 0, 0.3); /* Sombra verde para sucesso */
+}
+
+/* Adiciona sombra ao alerta de erro */
+.custom-alert.error {
+  box-shadow: 0 0 10px rgba(255, 0, 0, 0.5), 0 4px 8px rgba(255, 0, 0, 0.3); /* Sombra vermelha para erro */
+}
+
 
 @media (min-width: 768px) {
   .container {
