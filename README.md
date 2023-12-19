@@ -2,7 +2,7 @@
 
 <img src="porfolio-1.jpg" alt="Exemplo imagem">
 
-> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um site para o usuário calcular seu Índice de Massa Corporal (IMC), em que ele insere a altura e peso e o programa fornece o valor e classificação de acordo com a metodologia de cálculo, mostrando alertas de diferentes cores a depender de qual classificação o usuário se encaixa.
+> Projeto criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um site para o usuário calcular seu Índice de Massa Corporal (IMC), em que ele insere a altura e peso e o programa fornece o valor e classificação de acordo com a metodologia de cálculo, mostrando alertas de diferentes cores a depender de qual classificação o usuário se encaixa.
 
 ### Ajustes e melhorias
 
@@ -18,16 +18,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 - Um computador com um navegador instalado
 
-## ☕ Usando Projeto Adivinhação
+## ☕ Usando Projeto IMC
 
 Para calcular o IMC, siga estas etapas:
 
 - Acesse o seguinte link: https://maurochavesjr.github.io/projeto-imc/
 
 
-## 📫 Contribuindo para <nome_do_projeto>
+## 📫 Contribuindo para Projeto IMC
 
-Para contribuir com o Projeto Adivinhação, siga estas etapas:
+Para contribuir com o Projeto IMC, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
