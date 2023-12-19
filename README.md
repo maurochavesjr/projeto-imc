@@ -1,8 +1,8 @@
 # Projeto IMC
 
-<img src="Captura de tela 2023-10-20 195820.png" alt="Exemplo imagem">
+<img src="porfolio-1.jpg" alt="Exemplo imagem">
 
-> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um site para o usuário calcular seu Índice de Massa COrporal (IMC), em que ele insere a altura e peso e o programa fornece o valor e classificação de acordo com a metodologia de cálculo, mostrando alertas de diferentes cores a depender de qual classificação o usuário se encaixa.
+> Projeto de criado de forma autoral para testar meu aprendizado em JavaScript, HTML e CSS. O objetivo do projeto é de um site para o usuário calcular seu Índice de Massa Corporal (IMC), em que ele insere a altura e peso e o programa fornece o valor e classificação de acordo com a metodologia de cálculo, mostrando alertas de diferentes cores a depender de qual classificação o usuário se encaixa.
 
 ### Ajustes e melhorias
 
